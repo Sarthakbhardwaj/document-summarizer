@@ -1,3 +1,6 @@
+// this code gives us objects and their relations, it also reduces the redundant relations that have been formed(filtering) 
+
+
 pip install stanford_openie
 import spacy
 import collections
