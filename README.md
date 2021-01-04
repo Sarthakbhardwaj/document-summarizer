@@ -2,7 +2,7 @@
 
 About: 
 
-Today, cnline content increases at an alarming rate which exceeds users' ability to consume such content. Users may have to creat summaries of all the text manually which is cumbersome, hence there is a great need for an automatic summarizer
+Today, online content increases at an alarming rate which exceeds users' ability to consume so much content. Users may have to create summaries of all the text manually which is cumbersome, hence there is a great need for an automatic summarizer
 
 
 
