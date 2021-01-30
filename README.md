@@ -9,7 +9,7 @@ Today, online content increases at an alarming rate which exceeds users' ability
 Our Model:
 
 we have followed a research paper (https://www.aclweb.org/anthology/I17-1081.pdf) 
-so our model applies a four stage approach to create a summary concept map:
+so this model applies a four stage approach to create a summary concept map:
   1. Concept and relation extraction 
   2. FIltering 
   3. Concept graph construction 
